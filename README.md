@@ -16,6 +16,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 "# Quiz_app_flutter" 
 
--Preview:
-https://github.com/Akashbag2001/Quiz_app_flutter/assets/78099533/217c9652-2336-43e2-87a4-9609228e27fc
+https://github.com/Akashbag2001/Quiz_app_flutter/assets/78099533/ea36aba4-2d63-4815-9bdf-c6dfb27798ac
 
