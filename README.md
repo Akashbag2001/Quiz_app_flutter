@@ -15,3 +15,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 "# Quiz_app_flutter" 
+
+-Preview:
+https://github.com/Akashbag2001/Quiz_app_flutter/assets/78099533/217c9652-2336-43e2-87a4-9609228e27fc
+
